@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Linked List</h1>
+# <h1 align="center">Tugas Teori Strukdat</h1>
 <p align="center">Destina Bekti Setyaningsih (2311110018) / Sains Data</p>
 
 ### SubCPMK 2:
